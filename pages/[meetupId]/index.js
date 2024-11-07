@@ -11,7 +11,7 @@ function MeetupDetails(props){
         <title>{props.meetupData.title}</title>
         <meta name="description" content={props.meetupData.description}></meta>
         </Head>
-        <Meetupdetail image={props.meetupData.image} title={props.meetupData.itle} address={props.meetupData.address} description={props.meetupData.description} ></Meetupdetail>
+        <Meetupdetail image={props.meetupData.image} title={props.meetupData.title} address={props.meetupData.address} description={props.meetupData.description} ></Meetupdetail>
     </>
 }
 
