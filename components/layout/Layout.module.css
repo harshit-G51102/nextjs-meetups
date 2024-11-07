@@ -1,0 +1,11 @@
+.main {
+  margin: 3rem auto;
+  width: 90%;
+  max-width: 40rem;
+  
+}
+
+.full{
+  background-color: rgb(59, 58, 58);
+  overflow-y: hidden;
+}

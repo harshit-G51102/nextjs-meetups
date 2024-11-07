@@ -1,0 +1,11 @@
+.detail{
+    text-align: center;
+}
+
+.detail img{
+    width: 100%;
+    border: 4px solid  #77002e;
+    border-radius: 10px;
+    box-shadow: 0 15px 15px rgba(0, 0, 0, 0.2);
+}
+
